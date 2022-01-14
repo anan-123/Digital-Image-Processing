@@ -1,0 +1,6 @@
+matplotlib
+numpy
+opencv_python==4.5.4.58
+Pillow==8.4.0
+scikit-image==0.17.2
+tk
